@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "./static/css/main.1db49133.css",
+    "main.js": "./static/js/main.25170709.js",
+    "static/media/bg.png": "./static/media/bg.004d4391338f9d8b56c3.png",
+    "static/media/player.png": "./static/media/player.0fd1a8d322ca0166e11b.png",
+    "static/media/Geometria-Regular.ttf": "./static/media/Geometria-Regular.8f177d24d33171dfc518.ttf",
+    "static/media/Geometria-Bold.ttf": "./static/media/Geometria-Bold.1873fe842023d533821b.ttf",
+    "static/media/password.svg": "./static/media/password.8769b559496c1a270492.svg",
+    "static/media/promocode.svg": "./static/media/promocode.d3c66041722dc1b2f832.svg",
+    "static/media/email.svg": "./static/media/email.6242385e0bc5de066be6.svg",
+    "index.html": "./index.html",
+    "static/media/login.svg": "./static/media/login.80ce69b3f69f5b34bded.svg",
+    "main.1db49133.css.map": "./static/css/main.1db49133.css.map",
+    "main.25170709.js.map": "./static/js/main.25170709.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1db49133.css",
+    "static/js/main.25170709.js"
+  ]
+}
